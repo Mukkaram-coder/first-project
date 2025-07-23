@@ -1,0 +1,42 @@
+body {
+  padding-top: 35px;
+  justify-self: center;
+  background-image: url(p.png);
+}
+
+#label {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 70px;
+  color: green;
+}
+.i > .input {
+  border: 5px solid green;
+  width: 400px;
+  height: 500px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+
+  color: black;
+
+  background-color: white;
+}
+#button {
+  margin-top: 25px;
+  border: 2px solid black;
+  background-color: green;
+  height: 70px;
+  width: 350px;
+  color: aliceblue;
+  font-size: larger;
+}
+input {
+  padding-top: 5px;
+  height: 30px;
+  width: 350px;
+  margin-top: 15px;
+  border: 2px solid green;
+}
